@@ -5,6 +5,8 @@
 - [Open in StackBlitz](https://stackblitz.com/github/hmans/react-game-starter?file=README.md)
 - [Open in CodeSandbox](https://codesandbox.io/s/github/hmans/react-game-starter/main?file=/README.md)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/hmans/composer-suite)
+
 ### Goals
 
 - To provide a solid starting template for React- and Three.js-powered games;
